@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently pursuing my B.tech in Computer Science and Engineering from National Institute of Technology, Silchar.
 - 🌱 I'm currently working on learning Computer Vision and Machine Learning
+- 🌱 I love analytical thinking , enjoy coding and knight at Leetcode(2015), and I am 3x kaggle expert. 
+
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
