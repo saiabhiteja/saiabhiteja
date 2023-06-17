@@ -1,8 +1,7 @@
 ### Hi there, I'm Saiabhiteja Chepuri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently pursuing my B.tech in Computer Science and Engineering from National Institute of Technology, Silchar.
-- 🌱 I'm currently working on learning Computer Vision and Machine Learning
-- 🌱 I love analytical thinking , enjoy coding and knight at Leetcode(2015), and I am 3x kaggle expert. 
+- 🔭 I’m completed my B.tech in Computer Science and Engineering from National Institute of Technology, Silchar.
+- 🌱 I love analytical thinking , enjoy coding and collabarating 
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
@@ -11,7 +10,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![C programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![J](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
