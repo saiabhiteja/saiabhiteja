@@ -51,12 +51,13 @@ Curious about my journey, projects, and articles? Check out my personal portfoli
 ### 🤖 Currently Hacking On
 ![LangChain](https://img.shields.io/badge/LangChain-%2300B3B3.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
+<hr style="width:50%;text-align:left;margin-left:0">
+
 ### 🤝 Let’s Build Something Awesome!
 
 I love teaming up on open source, side projects, or just geeking out over code.  
 Ping me if you want to collaborate, brainstorm, or pair program!
 
-<hr style="width:50%;text-align:left;margin-left:0">
 
 ### 🌐 Connect with Me
 <p align="left">
